@@ -1,0 +1,8 @@
+body {
+background-image: url("kny.jpg");
+background-size: contain;
+}
+.container
+{
+	border-radius: 15px 15px
+}
